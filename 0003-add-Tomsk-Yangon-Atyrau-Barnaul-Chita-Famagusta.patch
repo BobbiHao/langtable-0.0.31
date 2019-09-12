@@ -1,0 +1,106 @@
+From 3a5f4ebd130dfff393163a4ff74fd378a7465b11 Mon Sep 17 00:00:00 2001
+From: Bi Wenjie <wenjie.bi@cs2c.com.cn>
+Date: Wed, 2 Jan 2019 10:05:45 +0800
+Subject: [PATCH] test
+
+---
+ data/timezoneidparts.xml | 48 ++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 48 insertions(+)
+
+diff --git a/data/timezoneidparts.xml b/data/timezoneidparts.xml
+index b2dc935..6aabfef 100644
+--- a/data/timezoneidparts.xml
++++ b/data/timezoneidparts.xml
+@@ -3056,6 +3056,14 @@
+       <name><languageId>zh_Hant</languageId><trName>大西洋</trName></name>
+     </names>
+   </timezoneIdPart>
++   <timezoneIdPart>
++     <timezoneIdPartId>Atyrau</timezoneIdPartId>
++     <names>
++       <name><languageId>en</languageId><trName>Atyrau</trName></name>
++       <name><languageId>zh</languageId><trName>阿特劳</trName></name>
++       <name><languageId>zh_Hant</languageId><trName>阿特劳</trName></name>
++     </names>
++  </timezoneIdPart>
+   <timezoneIdPart>
+     <timezoneIdPartId>Auckland</timezoneIdPartId>
+     <names>
+@@ -4193,6 +4201,14 @@
+     </names>
+   </timezoneIdPart>
+   <timezoneIdPart>
++      <timezoneIdPartId>Barnaul</timezoneIdPartId>
++      <names>
++        <name><languageId>en</languageId><trName>Barnaul</trName></name>
++        <name><languageId>zh</languageId><trName>巴尔瑙尔</trName></name>
++        <name><languageId>zh_Hant</languageId><trName>巴尔瑙尔</trName></name>
++      </names>
++  </timezoneIdPart>
++  <timezoneIdPart>
+     <timezoneIdPartId>Beijing</timezoneIdPartId>
+     <names>
+       <name><languageId>en</languageId><trName>Beijing</trName></name>
+@@ -8039,6 +8055,14 @@
+     </names>
+   </timezoneIdPart>
+   <timezoneIdPart>
++     <timezoneIdPartId>Chita</timezoneIdPartId>
++     <names>
++       <name><languageId>en</languageId><trName>Chita</trName></name>
++       <name><languageId>zh</languageId><trName>赤塔</trName></name>
++       <name><languageId>zh_Hant</languageId><trName>赤塔</trName></name>
++     </names>
++  </timezoneIdPart>
++  <timezoneIdPart>
+     <timezoneIdPartId>Choibalsan</timezoneIdPartId>
+     <names>
+       <name><languageId>af</languageId><trName>Choibalsan</trName></name>
+@@ -11893,6 +11917,14 @@
+     </names>
+   </timezoneIdPart>
+   <timezoneIdPart>
++    <timezoneIdPartId>Famagusta</timezoneIdPartId>
++      <names>
++        <name><languageId>en</languageId><trName>Famagusta</trName></name>
++        <name><languageId>zh</languageId><trName>法马古斯塔</trName></name>
++        <name><languageId>zh_Hant</languageId><trName>法马古斯塔</trName></name>
++      </names>
++  </timezoneIdPart>
++  <timezoneIdPart>
+     <timezoneIdPartId>Faroe</timezoneIdPartId>
+     <names>
+       <name><languageId>af</languageId><trName>Faroe</trName></name>
+@@ -34349,6 +34381,14 @@
+     </names>
+   </timezoneIdPart>
+   <timezoneIdPart>
++    <timezoneIdPartId>Tomsk</timezoneIdPartId>
++    <names>
++      <name><languageId>en</languageId><trName>Tomsk</trName></name>
++      <name><languageId>zh</languageId><trName>托木斯克</trName></name>
++      <name><languageId>zh_Hant</languageId><trName>托木斯克</trName></name>
++    </names>
++  </timezoneIdPart>
++  <timezoneIdPart>
+     <timezoneIdPartId>Tongatapu</timezoneIdPartId>
+     <names>
+       <name><languageId>af</languageId><trName>Tongatapu</trName></name>
+@@ -37189,6 +37229,14 @@
+     </names>
+   </timezoneIdPart>
+   <timezoneIdPart>
++     <timezoneIdPartId>Yangon</timezoneIdPartId>
++     <names>
++       <name><languageId>en</languageId><trName>Yangon</trName></name>
++       <name><languageId>zh</languageId><trName>仰光</trName></name>
++       <name><languageId>zh_Hant</languageId><trName>仰光</trName></name>
++     </names>
++  </timezoneIdPart>
++  <timezoneIdPart>
+     <timezoneIdPartId>Yekaterinburg</timezoneIdPartId>
+     <names>
+       <name><languageId>af</languageId><trName>Jekaterinburg</trName></name>
+-- 
+1.8.3.1
+
